@@ -95,5 +95,5 @@
 ###
 
 <h3> <br/>👩‍🏫 What I'm learning:</h3><br/>
-I'm currently learning Firebase and Typescript!
+I'm currently improving my knowledge of C#, Firebase, and Typescript!
 
