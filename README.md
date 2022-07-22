@@ -1,6 +1,6 @@
 [![bannergif](https://i.imgur.com/ST6EBtK.png)](https://kwii.tk/)
 <h3 align="center"> <br/>:wave: Hey there!</h3><br/>
-<p align="center"> I'm a computer science student studying at the University of Auckland. I am most comfortable with Javascript/Typescript, but I am familar with a range of other languages and I'm always looking to learn more. I also enjoy art and design.<br/><br/></p>
+<p align="center"> I'm a computer science student studying at the University of Auckland. I am most comfortable with Javascript/Typescript, but I am familar with a range of other languages and I'm always looking to learn more. I also enjoy art and design :)<br/><br/></p>
 
 
 #
