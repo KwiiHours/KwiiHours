@@ -44,6 +44,10 @@
 
 ``` 
 
+• 😀 Pakbot 2.0:
+   • Same as the original with way more commands and features.
+   • Heroku, Typescript, Discord.js, Firebase
+
 • 🦦 OtterBot:
    • A bot which posts daily pictures of otters to Twitter and Discord.
    • Heroku, TypeScript, JavaScript, Firebase, Discord.js, twit
@@ -55,10 +59,6 @@
 • 😀 Pakbot:
    • A general purpose Discord bot to help moderate large servers.
    • Heroku, Javascript, Discord.js
-   
-• 😀 Pakbot 2.0:
-   • Same as the original with way more commands and features.
-   • Heroku, Typescript, Discord.js, Firebase
  
 • ⚕️ The DIY HRT Directory:
    • A website which teaches transgender people how to *safely* perform DIY HRT to help prevent medical accidents. 
