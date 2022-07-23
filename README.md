@@ -45,7 +45,7 @@
 ``` 
 
 • 😀 Pakbot 2.0:
-   • Same as the original with way more commands and features.
+   • Same as the original, but now with way more commands and features.
    • Heroku, Typescript, Discord.js, Firebase
 
 • 🦦 OtterBot:
@@ -57,7 +57,7 @@
    • CSS, Chrome/Firefox/Edge/Opera extension webstores
    
 • 😀 Pakbot:
-   • A general purpose Discord bot to help moderate large servers.
+   • A general purpose Discord bot to help run a specific server of ~20k users.
    • Heroku, Javascript, Discord.js
  
 • ⚕️ The DIY HRT Directory:
@@ -78,7 +78,7 @@
 ``` 
    
 • 🐶 Tillice:
-   • A general purpose Discord bot to help run a specific server.
+   • A general purpose Discord bot to help run a specific server of ~1k users.
    • Heroku, Javascript, Discord.js, redditapi
    
 • 🌏 Planet Doge:
