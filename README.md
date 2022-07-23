@@ -44,8 +44,8 @@
 
 ``` 
 
-• 😀 Pakbot 2.0:
-   • Same as the original, but now with way more commands and features.
+• 😀 Pakbot 2.0 (in development):
+   • Same as the original, but now with way more features and commands.
    • Heroku, Typescript, Discord.js, Firebase
 
 • 🦦 OtterBot:
