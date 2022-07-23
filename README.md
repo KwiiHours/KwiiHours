@@ -73,7 +73,7 @@
 ### 
 ###
 
-<h3> <br/>🕸️ Past projects:</h3><br/>
+<h3> <br/>🕸️ Past/retired projects:</h3><br/>
 
 ``` 
    
