@@ -57,7 +57,7 @@
    • Heroku, Javascript, Discord.js
    
 • 😀 Pakbot 2.0:
-   • A general purpose Discord bot to help moderate large servers, with way more commands and features.
+   • Same as the original with way more commands and features.
    • Heroku, Typescript, Discord.js, Firebase
  
 • ⚕️ The DIY HRT Directory:
