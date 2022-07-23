@@ -55,6 +55,10 @@
 • 😀 Pakbot:
    • A general purpose Discord bot to help moderate large servers.
    • Heroku, Javascript, Discord.js
+   
+• 😀 Pakbot 2.0:
+   • A general purpose Discord bot to help moderate large servers, with way more commands and features.
+   • Heroku, Typescript, Discord.js, Firebase
  
 • ⚕️ The DIY HRT Directory:
    • A website which teaches transgender people how to *safely* perform DIY HRT to help prevent medical accidents. 
